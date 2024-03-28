@@ -13,7 +13,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/tesnimabdi22) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tesnim21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tesnim-abdi-temam-656b53224/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tesnimtemam1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TesnimAbdi) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tesnim-abdi-temam-656b53224/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@tesnimtemam1) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@TesnimAbdi) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Tesnim19&icon=0&color=0)](https://visitcount.itsvg.in)
 
